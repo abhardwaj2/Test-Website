@@ -1,0 +1,16 @@
+nav {
+
+    background-color: aliceblue;
+}
+
+body {
+
+    display: block;
+}
+html {
+    background-color: antiquewhite;
+}
+
+.display-none {
+    display: none;
+}
